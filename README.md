@@ -1,2 +1,2 @@
 # Hello-world
-练习
+cout << "hello world !"
